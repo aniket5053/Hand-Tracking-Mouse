@@ -4,3 +4,6 @@ The cursor moves on the screen as long as the tip of the index finger and thumb 
 
 To left click -> Middle Finger Tip + Thumb
 To right click -> Ring Finger Tip + Thumb
+
+
+TODO: Add scrollwheel functionality
